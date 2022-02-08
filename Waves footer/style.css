@@ -86,7 +86,7 @@ footer #wave1 {
     z-index: 1000;
     opacity: 1;
     bottom: 0;
-    animation: animateWaves 4s linear infinite;
+    animation: animateWaves 5s linear infinite;
 }
 
 footer #wave2 {
@@ -100,7 +100,7 @@ footer #wave3 {
     z-index: 1000;
     opacity: 0.2;
     bottom: 15px;
-    animation: animateWaves 3s linear infinite;
+    animation: animateWaves 2s linear infinite;
 }
 
 footer #wave4 {

@@ -1,2 +1,2 @@
-# Animations-CSS
-Learning CSS with amazing animations
+# Animations
+Learning animations with HTML, CSS and Javascript
